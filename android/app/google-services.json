@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147166136402",
+    "project_id": "skibble-accessibility",
+    "storage_bucket": "skibble-accessibility.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147166136402:android:2f79ec328cd824523cb78b",
+        "android_client_info": {
+          "package_name": "com.skib.skibble_accessibility"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmq5OoJpLRsJ3WAUeMsqpduCi8dccbYbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
